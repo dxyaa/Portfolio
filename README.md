@@ -1,27 +1,18 @@
 # Meraportfolio
+Welcome to my portfolio website, where I showcase my work and tell my story. 
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.0.
+![image](https://github.com/dxyaa/Portfolio/assets/97349882/4a358352-bcb6-45b4-a3ec-3bdca31ac098)
+# Visit Meraportfolio
+Visit meraportfolio at https://meraportfolio.vercel.app/
+# About
+This is my personal portfolio website where I share my projects, skills, and experiences. It's designed to provide visitors with insights into my background, work, and achievements.
+# Tech Stack
+* AngularJS
+* TailwindCSS
+# Contact
+Feel free to get in touch:
+* Email: diyasundeep64@gmail.com
+* LinkedIn: https://www.linkedin.com/in/diya-sundeep/
+* GitHub: https://github.com/dxyaa
 
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+  Thank You for visiting Meraportfolio!
