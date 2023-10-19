@@ -15,4 +15,4 @@ Feel free to get in touch:
 * LinkedIn: https://www.linkedin.com/in/diya-sundeep/
 * GitHub: https://github.com/dxyaa
 
-  Thank You for visiting Meraportfolio!
+Thank You for visiting Meraportfolio!
